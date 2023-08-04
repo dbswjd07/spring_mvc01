@@ -7,5 +7,6 @@
 </head>
 <body>
 <h1>/sample/admin.jsp</h1>
+<a href="/customLogout">LogOut</a>
 </body>
 </html>
